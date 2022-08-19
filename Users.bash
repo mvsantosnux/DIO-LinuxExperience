@@ -62,9 +62,9 @@ chown root:GRP_ADM /adm
 chown root:GRP_VEN /ven
 chown root:GRP_SEC /sec
 echo "############################################" 
-chmod 774 /adm
-chmod 774 /ven
-chmod 774 /sec
+chmod 776 /adm
+chmod 776 /ven
+chmod 776 /sec
 chmod 777 /publico
 echo "############################################" 
 echo "Todas Tarefas executadas com sucesso."
